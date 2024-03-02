@@ -1,5 +1,6 @@
 import { useState } from 'react'
 import {BrowserRouter as Router, Routes, Route} from 'react-router-dom';
+import Navbar from './components/Navbar';
 import About from './pages/About';
 import Projects from './pages/Projects';
 import Resume from './pages/Resume';
@@ -11,6 +12,7 @@ function App() {
 
   return (
     <Router>
+      <Navbar />
       <Routes>
         <Route path="/" element={<About />}></Route>
         <Route path='/projects' element={<Projects />} ></Route>
