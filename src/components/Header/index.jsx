@@ -1,6 +1,6 @@
 import {Link, NavLink} from 'react-router-dom';
 
-function Navbar(){
+function Header(){
     return(
         <nav className="navbar fixed-top navbar-expand-lg bg-body-tertiary">
             <div className="container-fluid">
@@ -70,4 +70,4 @@ function Navbar(){
     );
 }
 
-export default Navbar;
+export default Header;
