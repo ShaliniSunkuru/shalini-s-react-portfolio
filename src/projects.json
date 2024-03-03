@@ -1,0 +1,58 @@
+
+[
+    {
+        "id": 1,
+        "title": "Literary Lounge",
+        "desciption": "Web Application to help choose a great book and a special drink to go with it",
+        "image": "src/images/literary-lounge.png",
+        "github": "https://github.com/ShaliniSunkuru/Literary-Lounge",
+        "live": "https://duouk2000.github.io/Literary-Lounge/"
+
+    },
+    {
+        "id": 2,
+        "title": "Team Profile Generator",
+        "desciption": "Command-line application to generate team profile of employees in a software engineering team",
+        "image": "src/images/team-profile-generator.png",
+        "github": "https://github.com/ShaliniSunkuru/team-profile-generator",
+        "live": "https://github.com/ShaliniSunkuru/team-profile-generator"
+
+    },
+    {
+        "id": 3,
+        "title": "Weather Dashboard",
+        "desciption": "Web Application to help choose a great book and a special drink to go with it",
+        "image": "src/images/weather-dashboard.png",
+        "github": "https://github.com/ShaliniSunkuru/weather-dashboard",
+        "live": "https://shalinisunkuru.github.io/weather-dashboard/"
+
+    },
+    {
+        "id": 4,
+        "title": "Work Day Scheduler",
+        "desciption": "A simple work day scheduler app to manage hourly timeblocks",
+        "image": "src/images/work-day-scheduler.png",
+        "github": "https://github.com/ShaliniSunkuru/work-day-scheduler",
+        "live": "https://shalinisunkuru.github.io/work-day-scheduler/"
+
+    },
+    {
+        "id": 5,
+        "title": "Timed Code Quiz",
+        "desciption": "A timed code quiz on javascript fundamentals",
+        "image": "src/images/timed-code-quiz.png",
+        "github": "https://github.com/ShaliniSunkuru/timed-code-quiz-js",
+        "live": "https://shalinisunkuru.github.io/timed-code-quiz-js/"
+
+    },
+    {
+        "id": 6,
+        "title": "Professional README Generator",
+        "desciption": "A command-line application to generate a professional readme markdown file.",
+        "image": "src/images/professional-readme.png",
+        "github": "https://github.com/ShaliniSunkuru/professional-readme-generator",
+        "live": "https://drive.google.com/file/d/1Rp6kLk-O35hJJZCpDqGDBNSQBHhq-fI5/view"
+
+    }
+
+]
