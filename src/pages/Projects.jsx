@@ -1,13 +1,12 @@
 import projectData from '../projects.json';
 import Project from '../components/Project';
 import ProjectGallery from '../components/ProjectGallery';
-import ProjectDetail from '../components/ProjectDetail';
-import { Routes, Route } from 'react-router-dom';
+import './pages.css';
 
 function Projects(){
     
     return(
-        <div>
+        <div className='page'>
             <ProjectGallery>
                 {projectData.map(project => (
                     <Project 

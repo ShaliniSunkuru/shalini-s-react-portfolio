@@ -1,6 +1,8 @@
+import './pages.css';
+
 function Resume(){
     return(
-        <div>This is the Resume page</div>
+        <div className='page'>This is the Resume page</div>
     )
 }
 

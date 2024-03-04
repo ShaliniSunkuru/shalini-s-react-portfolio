@@ -1,6 +1,8 @@
+import './pages.css';
+
 function Contact(){
     return(
-        <div>This is the Contact page</div>
+        <div className='page'>This is the Contact page</div>
     )
 }
 
