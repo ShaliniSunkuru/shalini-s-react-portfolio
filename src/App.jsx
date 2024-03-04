@@ -6,6 +6,7 @@ import Projects from './pages/Projects';
 import Resume from './pages/Resume';
 import Contact from './pages/Contact';
 import './App.css'
+import ProjectDetail from './components/ProjectDetail';
 
 function App() {
  
@@ -18,6 +19,7 @@ function App() {
         <Route path='/projects/*' element={<Projects />} ></Route>
         <Route path='/resume' element={<Resume />} ></Route>
         <Route path='/contact' element={<Contact />} ></Route>
+        <Route path='/projects/:id' element={<ProjectDetail/>}></Route>
       </Routes>    
     </Router>
   )
