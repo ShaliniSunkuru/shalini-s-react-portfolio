@@ -2,3 +2,10 @@
 
     padding-top: 50px;
 }
+
+@media (min-width: 800px) {
+    .pdf{
+        width: 200%;
+    }
+    
+}
