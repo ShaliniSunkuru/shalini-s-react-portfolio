@@ -12,7 +12,8 @@ function App() {
  
 
   return (
-    <Router>
+    <div className='app'>
+      <Router>
       <Header />
       <Routes>
         <Route path="/" element={<About />}></Route>
@@ -22,6 +23,8 @@ function App() {
         <Route path='/projects/:id' element={<ProjectDetail/>}></Route>
       </Routes>    
     </Router>
+    </div>
+
   )
 }
 

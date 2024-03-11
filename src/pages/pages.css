@@ -1,11 +1,12 @@
 .page{
 
-    padding-top: 50px;
+    margin: 0;
+    height: 100%;
+    width: 100%;
 }
 
+
 @media (min-width: 800px) {
-    .pdf{
-        width: 200%;
-    }
+
     
 }

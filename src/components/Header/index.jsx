@@ -2,9 +2,9 @@ import {Link, NavLink} from 'react-router-dom';
 
 function Header(){
     return(
-        <nav className="navbar fixed-top navbar-expand-lg bg-body-tertiary">
+        <nav className="navbar fixed-top navbar-expand-lg navbar-dark bg-secondary">
             <div className="container-fluid">
-                <Link className="navbar-brand" to="/">
+                <Link className="navbar-brand text-white" to="/">
                     Shalini Sunkuru
                 </Link>
                 <button 
