@@ -5,7 +5,7 @@
         "title": "Literary Lounge",
         "caption": "Choose a book and a drink",
         "description": "Web Application to help choose a great book and a special drink to go with it. Search for your favorite author or choose from our recommendations. Get an idea for an interesting cocktail to accompany your relaxing read!",
-        "image": "/src/images/literary-lounge.png",
+        "image": "/images/literary-lounge.png",
         "github": "https://github.com/ShaliniSunkuru/Literary-Lounge",
         "live": "https://duouk2000.github.io/Literary-Lounge/"
 
@@ -15,7 +15,7 @@
         "title": "Team Profile Generator",
         "caption": "Employee profile page",
         "description": "Command-line application to generate team profile of employees in a software engineering team. Simply enter the information about your team members when prompted. The application will create a HTML file with employee details so that the email ids and github repos of employees are handy",
-        "image": "/src/images/team-profile-generator.png",
+        "image": "/images/team-profile-generator.png",
         "github": "https://github.com/ShaliniSunkuru/team-profile-generator",
         "live": "https://github.com/ShaliniSunkuru/team-profile-generator"
 
@@ -25,7 +25,7 @@
         "title": "Weather Dashboard",
         "caption": "5-day weather forecast",
         "description": "This web application displays the Current weather and the 5-day weather forecast of city entered. It uses local storage to save your recent searches so that you can easily plan your trip based on the weather.",
-        "image": "/src/images/weather-dashboard.png",
+        "image": "/images/weather-dashboard.png",
         "github": "https://github.com/ShaliniSunkuru/weather-dashboard",
         "live": "https://shalinisunkuru.github.io/weather-dashboard/"
 
@@ -35,7 +35,7 @@
         "title": "Work Day Scheduler",
         "caption": "Plan your work day!",
         "description": "A simple work day scheduler app to manage hourly timeblocks. Add important events of a day to hourly timeblocks and manage your time at work efficiently. ",
-        "image": "/src/images/work-day-scheduler.png",
+        "image": "/images/work-day-scheduler.png",
         "github": "https://github.com/ShaliniSunkuru/work-day-scheduler",
         "live": "https://shalinisunkuru.github.io/work-day-scheduler/"
 
@@ -45,7 +45,7 @@
         "title": "Timed Code Quiz",
         "caption": "Javascript Quiz",
         "description": "A timed code quiz on javascript fundamentals",
-        "image": "/src/images/timed-code-quiz.png",
+        "image": "/images/timed-code-quiz.png",
         "github": "https://github.com/ShaliniSunkuru/timed-code-quiz-js",
         "live": "https://shalinisunkuru.github.io/timed-code-quiz-js/"
 
@@ -55,7 +55,7 @@
         "title": "Professional README Generator",
         "caption": "A quick README for your app",
         "description": "A command-line application to generate a professional readme markdown file. Enter the answers to the prompts and a professional README will be generated within seconds.",
-        "image": "/src/images/professional-readme.png",
+        "image": "/images/professional-readme.png",
         "github": "https://github.com/ShaliniSunkuru/professional-readme-generator",
         "live": "https://drive.google.com/file/d/1Rp6kLk-O35hJJZCpDqGDBNSQBHhq-fI5/view"
 
