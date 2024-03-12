@@ -1,0 +1,19 @@
+.socialButtons{
+    position: fixed;
+    right: 0;
+    left: 0;
+    bottom: 10%;
+    /* right: 0; */
+    background-color: lightgray;
+    padding: 5px;
+}
+
+#wordpressBtn{
+    background-color: #00749C;
+    border: none;
+}
+
+#mailBtn{
+    background-color: rgba(0, 26, 255, 0.452);
+    border: none;
+}
