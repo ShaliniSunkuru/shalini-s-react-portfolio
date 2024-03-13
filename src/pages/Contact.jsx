@@ -26,14 +26,16 @@ function Contact(){
     }
     const handleFormSubmit = (event) => {
         event.preventDefault();
-        console.log(`${formData.visitorName} \n ${formData.visitorEmail} \n ${formData.message}`)
+        alert(
+            `Hello ${formData.visitorName}! Glad to meet you! I am sorry this functianlity is under progess! Please use the email button below to send me a message!`
+        );
+        
     }
     return(
-        <div>
-            <form className='contactForm'>
+        <div>   
             <h3>Contact Me</h3>
-            <div className='mx-5'>
-                <input 
+            <form className='contactForm  mx-5'>
+                <input
                     type="text" 
                     className='form-control my-3' 
                     id='visitornName' 
@@ -42,7 +44,9 @@ function Contact(){
                     name='visitorName'
                     value={formData.visitorName}
                     onChange={handleInputChange}
-                />                              
+                />  
+                <div className='valid-feedback'>Valid</div>
+                <div className='invalid-feedback'>Invalid</div>                            
                 <input 
                     type="email" 
                     className="form-control mb-3" 
@@ -71,9 +75,7 @@ function Contact(){
                 >
                     Send Message
                 </button>
-            </div>         
-        </form>
-
+            </form>         
         <Footer></Footer>
 
         </div>
